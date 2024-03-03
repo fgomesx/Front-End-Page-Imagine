@@ -1,7 +1,7 @@
 # FRONT-END PAGE - IMAGINE
 Este projeto consiste em um site que simula uma plataforma de geração de imagens com inteligência artificial. O site foi desenvolvido usando HTML, CSS e JavaScript, sendo este último apenas para implementar um slide de imagens na página inicial. O site possui duas páginas: uma que apresenta o conceito e o objetivo da plataforma, e outra que solicita o login do usuário para acessar o serviço. O site não possui nenhuma funcionalidade real de geração de imagens, apenas uma interface simulada para fins didáticos e práticas de Front-end .
 
-[Clique aqui](https://fgomesx.github.io/Front-End-Page-Imagine/) para acessar o resultado final do projeto!
+[Clique aqui](https://fgomesx.github.io/Front-End-Page-Imagine/) para acessar a página!
 
 *Observação: As imagens vistas nas páginas foram todas geradas por inteligência artificial.*
 
